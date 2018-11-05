@@ -10,3 +10,12 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Build output
+/mobhealth3-prefill
+
+# Input and output
+*.7z
+*.sql
+*.lua
+
