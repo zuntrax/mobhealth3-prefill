@@ -15,6 +15,7 @@
 /mobhealth3-prefill
 
 # Input and output
+/database
 *.7z
 *.sql
 *.lua
